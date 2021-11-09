@@ -1,0 +1,3 @@
+:host(.hidden-clear) [part~=clear-button] {
+    display: none;
+}
